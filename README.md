@@ -1,4 +1,4 @@
-# Like Me - Parte II
+# Like Me - Parte I
 
 Aplicación full stack con React + Vite y API Express + PostgreSQL que permite crear posts, sumar likes y eliminarlos.
 
